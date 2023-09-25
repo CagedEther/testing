@@ -63,5 +63,5 @@ defaults:
       path: ""
       type: "pages"
     values:
-      hero_image: https://github.com/CagedEther/Nustory/assets/142103717/f69e44ae-0723-41e6-9731-957da2a1f933.png
+      hero_image: https://github.com/CagedEther/Nustory/assets/142103717/f69e44ae-0723-41e6-9731-957da2a1f933
       
