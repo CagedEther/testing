@@ -54,6 +54,7 @@ sass:
   source_dir: _sass
 
 #google_analytics: UA-code-here
+#google_analytics: G-H5Q13Q8JV5
 
 defaults:
   -
