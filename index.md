@@ -2,7 +2,6 @@
 title: Nustory Project
 subtitle: Brand marketing in the era of AI
 layout: page
-callouts: home_callouts
 show_sidebar: false
 ---
 
